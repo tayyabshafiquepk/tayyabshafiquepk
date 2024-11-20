@@ -1,6 +1,5 @@
-<div align="center">
-  <img height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh6279yPxddWTbkx2d3ZXmPM9r3pf-_5o3eTyp4PTi7VH2wrCvGXy1TioEevck7gOUjYBEv75zmggVGAMwNtKqQTgcoTNg966POQ0KarW7pMX27aPeetmgzyvSocWYfSwFi5OEBzHL1ID5XKXJgLgZO-tGF3ILqv5FTsKJ76K2E3l5NkKo8agHby3wMMGv/s16000/Tayyab_Shafique.png"  />
-</div>
+
+![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Tayyab%20Shafique%20PK&text2=I%20am%20a%20Solo%20Player&width=1100&height=200)
 
 
 <h1 align="center">I Always Accomplish my Missions</h1>
