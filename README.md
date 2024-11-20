@@ -12,6 +12,16 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
+<h3 align="left">Skills</h3>
+
+###
+
+<p align="left">- Data Structures & Algorithms<br>- Scrapping & Automation<br>- MERN Stack Development<br>- Android Apps Development<br>- Web Apps Development<br>- Softwares Development<br>- Much More</p>
+
+###
+
+</hr>
+
 ###
 
 <h3 align="left">Languages</h3>
